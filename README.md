@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m data analysis specialist
+- 🔭 I’m a data analysis specialist
 - 📫 How to reach me: fatmaelrazazy@gmail.com
